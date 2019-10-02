@@ -1,5 +1,4 @@
 //1** Welcoming karachi People
-/*
 var city = prompt("In which City do you Live");
 city = city.toLowerCase ();
 if (city == "karachi") {
@@ -7,11 +6,10 @@ document.write("<h1>Welcome to the city of Lights</h1>");
 }
 else {
 document.write("<h1>Sorry, This isn't a City of lights</h1>");	
-}*/
+}
 
 
 //2** input of gender then morning msg
-/*
 var gen = prompt("What is your Gender");
 gen = gen.toLowerCase();
 if (gen == "male") {
@@ -22,11 +20,10 @@ else if (gen == "female") {
 }
 else {
 	document.write("<h2>Try Again!!!</h2>")
-}*/
+}
 
 
 //3** traffic signal colors & output msg
-/*
 var sig = prompt("what is the colour of signal ");
 sig = sig.toLowerCase();
 if (sig === "red"){
@@ -40,22 +37,20 @@ else if (sig === "green"){
 }
 else {
 	document.write("<h1>Invalid Color!!!</h1>");
-}*/
+}
 
 
 //4**  input remaining fuel in car then show msg about refill
-/*
 var fuel = prompt("Remaining Fuel In The Tank?\n(In Litres)");
 if (fuel > 0.25){
 	document.write("<h2><i>Refill the fuel later..</i></h2>");
 }
 else if (fuel <= 0.25){
 	document.write("<h2>Please Refill the fuel in your car!!!</h2>");
-}*/
+}
 
 
 //5
-/*
 var a = 4; // alert displayed
 if (++a === 5){
 alert("given condition for variable a is true");
@@ -91,11 +86,10 @@ alert("False");
 }
 if("car" < "cat"){ // alert displayed
 alert("car is smaller than cat");
-}*/
+}
 
 
 //6** Marksheet and percentage, grade, remakrs
-/*
 var totalmarks = 300;
 var marks = prompt("Type your total marks out of 300 (in three subjects)?");
 document.write("<h1>*MARK SHEET*</h2>");
@@ -117,11 +111,10 @@ else if (marks > 179){
 else if (marks <= 179){
 	document.write("<br>" + "Grade: Fail..!!");
 	document.write("<br>" + "Remarks: Sorry..");
-}*/
+}
 
 
 //7** Guess game
-/*
 var secNum = prompt ("Guess the Seceret Number 1 to 10");
 var secNum = parseInt(secNum);
 if (secNum == 7) {
@@ -133,11 +126,10 @@ else if (secNum == 6){
 
 else {
 	alert("Try Again..");
-}*/
+}
 
 
 //8** check given number is divisible by 3
-/*
 var value_number = prompt("Enter Number To Check \nIt's Divisiblility By 3: ");
 value_number = parseInt(value_number);
 if(value_number % 3 == 0){
@@ -145,23 +137,21 @@ if(value_number % 3 == 0){
 }
 else{
 	document.write("The number " + value_number + " is not divisible by 3");
-}*/
+}
 
 
 //9** Find odd or even?
-/*
 var num = prompt ("Type a number to and Find odd or even?");
 num = parseInt(num);
 if ( num % 2 == 0) {
 	alert('Even Number');
 }else{
 	alert('Odd Number');
-}*/
+}
 
 
 
 //10** take temperature & then msg about weather
-/*
 var temp = prompt("what is the temperature today?");
 temp = parseInt(temp);
 if (temp >= 40){
@@ -178,12 +168,11 @@ else if (temp >= 10){
 }
 else {
 	alert("Nan");
-}*/
+}
 
 
 
 //11** input 1 value, then 2nd then input the calculation sign
-/*
 var a = Number(prompt("Input Your first Value"));
 var opr = prompt("Input your calculation sign");
 var b = Number(prompt("Put Your Second Value"));
@@ -204,7 +193,7 @@ else if (opr == "%"){
 }
 else {
 	alert("invalid intput")
-}*/
+}
 
 
 
