@@ -1,6 +1,5 @@
-## _PIAIC Blockchain Specialist_
+## PIAIC Blockchain Specialist _(Javascript Assignments)_
 ### **_[Abid Jaweed](https://github.com/Abidjaweed)-BCC031419_**
-#### _Javascript Assignments_
 
 **This _[Repositry](https://github.com/Abidjaweed/Assignments-BCC031419)_ is for _PIAIC_ JavaScript Assignments.** 
 
