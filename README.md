@@ -18,12 +18,6 @@ I am a **_Proud Student_** of **_[Presidential Initiative for Artificial Intelli
 
 I have been Enrolled in **_[Blockchain Specialist Program](https://www.piaic.org/block-chain)_** of **_[PIAIC](https://www.piaic.org)_** since January.
 
-
-
-
-:+1: Thanks for Reading this. :+1:
-
-
-
+> :+1: Thanks for Reading this. :+1:
 
 ##### **_Regards [@Abidjaweed](https://github.com/Abidjaweed)_**
